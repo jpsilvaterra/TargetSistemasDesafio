@@ -1,0 +1,24 @@
+#Exercicios Target sistemas
+#Os arquivos de codigo serão adicionados separadamente neste repositorio Git
+
+1)Ao final do processamento, qual será o valor da variável SOMA?
+SOMA = 13
+
+
+3) Descobrir sequencia logica
+    A) 9
+    B) 128
+    C)  49
+    D) 100
+    E) 13
+    F) 200
+
+4)  R: 60,9 km de Ribeirão Preto
+movimento retilíneo uniforme:
+    100/80
+    sem os pedagios 1,25H;
+    1,25H + 0,17H = 1,42H
+    100/1,42 = 70,6
+limpando o tempo e igualando ambas podemos achar o ponto de encontro:
+(110*100)/(110+70,6) = 60,9
+
